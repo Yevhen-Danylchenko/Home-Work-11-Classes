@@ -295,6 +295,8 @@ int main()
 	cout << "Price: " << obj2.priceReduction(20000) << endl;
 	Car::countInfoCar();
 
+	return 0;
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
